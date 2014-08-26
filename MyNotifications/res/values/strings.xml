@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyNotifications</string>
+    <string name="mensaje">Iniciando Notificacion</string>
+    <string name="resultado">Esta actividad se llamo a traves de la notificacion</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result">ResultActivity</string>
+
+</resources>
