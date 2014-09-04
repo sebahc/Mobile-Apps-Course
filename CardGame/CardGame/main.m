@@ -14,9 +14,9 @@
 int main(int argc, char * argv[])
 {
     @autoreleasepool {
-        //return UIApplicationMain(argc, argv, nil, NSStringFromClass([CardGameAppDelegate class]));
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([CardGameAppDelegate class]));
         
-        Card *myCard = [[Card alloc]init];
+        /*Card *myCard = [[Card alloc]init];
         
         myCard.contents=@"4Trebol";
         
@@ -31,7 +31,7 @@ int main(int argc, char * argv[])
             
         } else{
             NSLog(@"Las cartas son diferentes");
-        }
+        }*/
         
     }
 }
